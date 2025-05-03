@@ -28,7 +28,7 @@ public class Main {
                 System.out.println("filtered even List: " + EvenNumberFilter.filterEvenNumber(numbers));
             }
             else if (answer2.equalsIgnoreCase("o")){
-                System.out.println("ok");
+                System.out.println("filtered odd list: " + EvenNumberFilter.filterOddNumber(numbers));
 
             }
             else{
